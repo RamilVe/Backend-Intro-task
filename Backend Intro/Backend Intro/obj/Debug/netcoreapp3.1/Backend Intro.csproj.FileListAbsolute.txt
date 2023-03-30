@@ -1,0 +1,41 @@
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\Backend Intro.exe
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\Backend Intro.deps.json
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\Backend Intro.runtimeconfig.json
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\Backend Intro.runtimeconfig.dev.json
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\Backend Intro.dll
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\Backend Intro.pdb
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\Backend Intro.Views.dll
+C:\Users\User\source\c#\Backend Intro\Backend Intro\bin\Debug\netcoreapp3.1\Backend Intro.Views.pdb
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.csproj.AssemblyReference.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.AssemblyInfoInputs.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.AssemblyInfo.cs
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.RazorAssemblyInfo.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.RazorAssemblyInfo.cs
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\staticwebassets\Backend Intro.StaticWebAssets.Manifest.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\staticwebassets\Backend Intro.StaticWebAssets.Pack.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Backend Intro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Backend Intro.props
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Backend Intro.props
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Backend Intro.props
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.TagHelpers.input.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.TagHelpers.output.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.RazorCoreGenerate.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.Views.pdb
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.dll
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.pdb
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.genruntimeconfig.cache
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Backend Intro.csproj.CopyComplete
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+C:\Users\User\source\c#\Backend Intro\Backend Intro\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
